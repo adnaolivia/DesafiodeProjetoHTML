@@ -18,5 +18,9 @@ Criei uma página web usando as tags ensinadas em aula até agora, porém fiz un
   <li>textarea - caixa de texto</li>
   <li>input type="submit" - botão para envio</li>
   <li>font - formatação da fonte</li>
+  <ul>
+    <li>color(atributo de font) - escolher a cor da fonte</li>
+    <li>face(atributo de font) - formatar o estilo da fonte</li>
+  </ul>
 </ul>
 </p>
