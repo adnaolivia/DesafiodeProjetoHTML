@@ -17,5 +17,6 @@ Criei uma página web usando as tags ensinadas em aula até agora, porém fiz un
   <li>target="_blank" - abrir o hiperlink em outra guia</li>
   <li>textarea - caixa de texto</li>
   <li>input type="submit" - botão para envio</li>
+  <li>font - formatação da fonte</li>
 </ul>
 </p>
